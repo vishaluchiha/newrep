@@ -1,2 +1,2 @@
-cout<<"iam a boss";
+cout<<"am a boss";
 cin>>a;
